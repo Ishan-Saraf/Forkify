@@ -1,0 +1,3 @@
+#Forkify - Javascript Learning Project
+
+Tutorial project to learn functioning of Javascript.
